@@ -8,5 +8,5 @@
 - Confirm Order
 - Process Payment
 - View Cart
-- 
+  
 2. Include basic formulas (e.g., Subtotal = item price × quantity; Total payment = sum of subtotals).
